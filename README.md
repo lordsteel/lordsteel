@@ -2,5 +2,5 @@
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning ???
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me - I can't tell you where to find me. I'm not a man you can find. I can only choose to find you.
+- 📫 I can't tell you where to find me. I'm not a man you can find. I can only choose to find you.
 - 📫 You wish to speak with me? Go to the edge of the world, walk until you can't anymore. Then, keep walking. 
