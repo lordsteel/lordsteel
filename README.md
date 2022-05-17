@@ -1,6 +1,18 @@
 - 👋 Hi, I’m @lordsteel
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning ???
+- 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on projects
-- 📫 I can't tell you where to find me. I'm not a man you can find. I can only choose to find you.
-- 📫 You wish to speak with me? Go to the edge of the world, walk until you can't anymore. Then, keep walking. 
+
+
+## Contributors
+- 👑 lordsteel
+
+
+## License & Copyright
+Copyright (c) 2022, lordsteel
+
+All rights reserved.
+
+Licensed under [BSD 3-Clause "New" or "Revised" License](LICENSE)
+
+All of my gists are licensed under the terms of the [BSD 3-Clause "New" or "Revised" License](LICENSE) as well.
